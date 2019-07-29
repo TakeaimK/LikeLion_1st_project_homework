@@ -1,0 +1,36 @@
+.titlebox {
+    width: 500px;
+    margin: 0 auto auto 20%;
+    color: #cccccc;
+    font-family: '맑은고딕';
+    font-size: 200%;
+}
+
+.datebox {
+    width: 500px;
+    margin: 0 auto auto 25%;
+    color: #AAAAAA;
+    font-size: 80%;
+    font-style: oblique;
+}
+
+.detailbox {
+    width: 500px;
+    margin: 0 auto auto 30%;
+    color: #555555;
+}
+
+.lead {
+    font-family: '맑은고딕';
+    font-style: oblique;
+}
+
+.container-about {
+    width: 500px;
+    margin: 0 auto auto 30%;
+    color: #AAAAAA;
+}
+
+body {
+    background-color: #222222;
+}
